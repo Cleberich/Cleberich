@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Cleberich
-- 👀 I’m interested in aprender a desarrollar temas para shopify
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Cleberich/Cleberich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h4 style="color:blue">👋 Hola mi nombre es Cleber</h4>
+<p>Soy front-end web developer</p>
+<p>Tecnologías que manejo actualmente:</p>
+<ul>
+<li>HTML 5</li>
+<li>CSS3</li>
+<li>BOOSTRAP</li>
+<li>JAVASCRIPT</li>
+<li>REACT</li>
+</ul>
+<h6>Soy CEO de Paito ecommerce</h6>
+<a href="https://www.paito.uy">Visitar sitio</a>
